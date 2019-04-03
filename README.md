@@ -1,9 +1,9 @@
 # myCalculatrice
 My First App
 
-- +
-- - 
-- /
-- *
-- Reset
-- %
+- "+"
+- "-" 
+- "/"
+- "*"
+- "Reset"
+- "%"
