@@ -1,5 +1,5 @@
 # myCalculatrice
-My First App
+My First iOS App (Calculator app)
 
 - "+"
 - "-" 
@@ -7,3 +7,6 @@ My First App
 - "*"
 - "Reset"
 - "%"
+
+
+<img src="https://i.imgur.com/8ogzjgD.jpg" width="200">
